@@ -13,6 +13,10 @@
 - 💼 **Connect With Me on LinkedIn:** [Varun Hotani](https://www.linkedin.com/in/varun-hotani-51b046300/)  
 
 ---
+<!-- ![Discord](https://discord.c99.nl/widget/theme-3/836471571786104873.png) -->
+<a href="https://discord.com/users/728892652438814740">
+<img src="https://discord.c99.nl/widget/theme-3/1071843392268546068.png" alt="Discord"/>
+</a>
 
 ### 🔧 Tech Stack
 
