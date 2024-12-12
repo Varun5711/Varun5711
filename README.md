@@ -13,12 +13,11 @@
 - 💼 **Connect With Me on LinkedIn:** [Varun Hotani](https://www.linkedin.com/in/varun-hotani-51b046300/)  
 
 ---
-<!-- ![Discord](https://discord.c99.nl/widget/theme-3/836471571786104873.png) -->
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/728892652438814740.png) -->
 <a href="https://discord.com/users/728892652438814740">
 <img src="https://discord.c99.nl/widget/theme-3/728892652438814740.png" alt="Discord"/>
 </a>
-
+</br>
 ### 🔧 Tech Stack
 
 #### Frontend Development
