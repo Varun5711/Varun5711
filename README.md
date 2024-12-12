@@ -15,8 +15,9 @@
 ---
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/728892652438814740.png) -->
 <a href="https://discord.com/users/728892652438814740">
-<img src="https://discord.c99.nl/widget/theme-3/728892652438814740.png" alt="Discord"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/728892652438814740" alt="Discord Profile" />
 </a>
+
 
 ### 🔧 Tech Stack
 
