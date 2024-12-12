@@ -14,7 +14,7 @@
 
 ---
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/836471571786104873.png) -->
-[![Discord Presence](https://lanyard.cnrad.dev/api/:728892652438814740)](https://discord.com/users/:728892652438814740)
+
 
 ### 🔧 Tech Stack
 
