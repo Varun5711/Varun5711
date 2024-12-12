@@ -17,7 +17,7 @@
 <a href="https://discord.com/users/728892652438814740">
 <img src="https://discord.c99.nl/widget/theme-3/728892652438814740.png" alt="Discord"/>
 </a>
-</br>
+
 ### 🔧 Tech Stack
 
 #### Frontend Development
