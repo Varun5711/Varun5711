@@ -10,7 +10,7 @@
 
 - 🌱 **Currently Learning:** NextJS, Python  
 - 📞 **Contact Me At:** [varunhotani@gmail.com](mailto:varunhotani@gmail.com)  
-- 💼 **Connect With Me on LinkedIn:** [Vanika Tiwari](https://www.linkedin.com/in/varun-hotani-51b046300/)  
+- 💼 **Connect With Me on LinkedIn:** [Varun Hotani](https://www.linkedin.com/in/varun-hotani-51b046300/)  
 
 ---
 
