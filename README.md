@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1024/0*PP5k92twh_W05yzF.jpg)
+![MasterHead](https://camo.githubusercontent.com/3492228fd9a698d24cbe02d7e013abc0fe70eebeda013e47dab443f61efe5013/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966)
 <h1 align="center">Hi 👋, I'm Varun Hotani</h1>
 <h3 align="center">A Full Stack Developer with a Passion for Crafting Seamless Digital Experiences</h3>
 <p align="center">
