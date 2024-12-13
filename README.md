@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="https://share.creavite.co/675c16690ae0e4f686a61d6b.gif" alt="MasterHead" />
-</p>
+
 <h1 align="center">Hi 👋, I'm Varun </h1>
 <h3 align="center">A Full Stack Developer with a Passion for Crafting Seamless Digital Experiences</h3>
 <p align="center">
