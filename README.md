@@ -17,8 +17,8 @@
 
 ## Activity
 
-![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=swcioz9a2n7uwfa9983agaf64&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=swcioz9a2n7uwfa9983agaf64&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)
-
+![Discord Presence](https://lanyard-profile-readme.vercel.app/api/728892652438814740?theme=dracula&bg=1e1e2e&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...
+)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devbyvarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devbyvarun" height="30" width="40" /></a>
