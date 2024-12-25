@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/devbyvarun" target="blank"><img src="https://img.shields.io/twitter/follow/devbyvarun?logo=twitter&style=for-the-badge" alt="devbyvarun" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS, Python**
+- 🌱 I’m currently learning **NextJS, Java**
 
 - 📫 How to reach me **varunhotani@gmail.com**
 
