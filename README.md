@@ -7,7 +7,7 @@
 </p>
 <img src="https://komarev.com/ghpvc/?username=varun5711&label=Profile%20views&color=0e75b6&style=flat" alt="varun5711" /> </p>
 
-<p align="left"> <a href="https://twitter.com/devbyvarun" target="blank"><img src="https://img.shields.io/twitter/follow/devbyvarun?logo=twitter&style=for-the-badge" alt="devbyvarun" /></a> </p>
+[![Follow @devbyvarun on Twitter](https://img.shields.io/badge/Follow-%40devbyvarun-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/devbyvarun)
 
 - 🌱 I’m currently learning **NextJS, Java**
 
