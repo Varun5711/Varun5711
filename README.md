@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Varun </h1>
 <h3 align="center">A Full Stack Developer with a Passion for Crafting Seamless Digital Experiences</h3>
 <p align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm54dzlyZXp1aml1MGdqaW1iY2pybWQwYnU1aDBiNHE0dTBxaWcwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UqGDIVAmpqtn4buJDd/giphy-downsized-large.gif" 
+<!--     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm54dzlyZXp1aml1MGdqaW1iY2pybWQwYnU1aDBiNHE0dTBxaWcwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UqGDIVAmpqtn4buJDd/giphy-downsized-large.gif" 
     width="700" alt="Coding GIF" style="border-radius: 150px;">
-
+ -->
 </p>
 <img src="https://komarev.com/ghpvc/?username=varun5711&label=Profile%20views&color=0e75b6&style=flat" alt="varun5711" /> </p>
 
