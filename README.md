@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **NextJS, Java**
 
-- 📫 How to reach me **varunhotani@gmail.com**
+- 📫 How to reach me **varunhotani@icloud.com**
 
 - ⚡ Fun fact **"Code is like humor. When you have to explain it, it’s bad."**
 
