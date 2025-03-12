@@ -10,7 +10,7 @@
 
 [![Follow @devbyvarun on Twitter](https://img.shields.io/badge/Follow-%40devbyvarun-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/devbyvarun)
 
-- 🌱 I’m currently learning **NextJS, Java**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **varunhotani@icloud.com**
 
