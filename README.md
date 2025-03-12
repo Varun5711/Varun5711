@@ -1,10 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Varun </h1>
 <h3 align="center">A Full Stack Developer with a Passion for Crafting Seamless Digital Experiences</h3>
 <p align="center">
-<!--     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm54dzlyZXp1aml1MGdqaW1iY2pybWQwYnU1aDBiNHE0dTBxaWcwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UqGDIVAmpqtn4buJDd/giphy-downsized-large.gif" 
-    width="700" alt="Coding GIF" style="border-radius: 150px;">
- -->
 </p>
 <img src="https://komarev.com/ghpvc/?username=varun5711&label=Profile%20views&color=0e75b6&style=flat" alt="varun5711" /> </p>
 
@@ -44,8 +40,9 @@ Programming languages
 Web:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 
 Software:
