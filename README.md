@@ -53,7 +53,11 @@ Software:
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun5711&layout=pie)](https://github.com/Varun5711/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun5711&show_icons=true&locale=en" alt="varun5711"  /></p>
-
+<p>
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Varun5711&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=FFD700&text_color=EAEAEA&icon_color=F8D847">
+  
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun5711&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=FFD700&text_color=EAEAEA&icon_color=F8D847">
+  
+  <br>
+  <br>
+</p>
