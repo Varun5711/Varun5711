@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun </h1>
-<h3 align="center">MERN Stack Developer | Backend Engineer | Diving into React Native & building the future across web & mobile</h3>
+<h3 align="center">Backend & DevOps Engineer | Exploring React Native | Building reliable systems across web & mobile</h3>
 <p align="center">
 </p>
 <img src="https://komarev.com/ghpvc/?username=varun5711&label=Profile%20views&color=0e75b6&style=flat" alt="varun5711" /> </p>
