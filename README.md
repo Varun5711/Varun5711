@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun</h1>
+
 <h3 align="center">Backend & DevOps Engineer | Exploring React Native | Building reliable systems across Web, Mobile & Cloud</h3>
 
 <p align="center">
@@ -13,16 +14,59 @@
 
 ---
 
-- 🔧 I’m currently working on **DevOps pipelines & microservice architecture**
-- 🧠 I’m diving deeper into **React Native**, **CI/CD**, **Kubernetes**, and **Cloud Infrastructure**
-- 📬 How to reach me: **varunhotani@icloud.com**
-- ⚡ Fun fact: *"Code is like humor. When you have to explain it, it’s bad."*
+## 👨‍💻 About Me
+
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Varun Hotani";
+    this.role = "Backend & DevOps Engineer";
+    this.location = "🇮🇳 India";
+    this.status = "Building & Breaking Things";
+    this.currentWork = new Map([
+      ["🔧", "DevOps pipelines & microservice architecture"],
+      ["☁️", "Cloud infrastructure optimization"],
+      ["📱", "React Native mobile development"]
+    ]);
+    this.contact = {
+      email: "varunhotani@icloud.com",
+      twitter: "@devbyvarun",
+      availability: "Always open to interesting projects"
+    };
+    this.philosophy = "Code is like humor. When you have to explain it, it's bad.";
+  }
+
+  getCurrentFocus() {
+    return [...this.currentWork.values()];
+  }
+
+  getLifeMotto() {
+    return "Write code that works, then make it beautiful. 🚀";
+  }
+}
+
+const varun = new Developer();
+console.log(`👋 Hello! I'm ${varun.name}`);
+console.log(`🎯 Currently: ${varun.getCurrentFocus().join(" | ")}`);
+```
 
 ---
 
 ## 🧠 Activity
 
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/728892652438814740?theme=dracula&bg=1e1e2e&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...)
+
+---
+
+## 🔧 What I'm Working On
+
+```bash
+# Currently focusing on
+🔧 DevOps pipelines & microservice architecture
+🧠 React Native, CI/CD, Kubernetes, and Cloud Infrastructure
+☁️ Building scalable backend systems
+📱 Mobile app development
+```
 
 ---
 
@@ -95,3 +139,27 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varun5711&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=00FFFF&text_color=EAEAEA&icon_color=00BFFF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun5711&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&title_color=00FFFF&text_color=EAEAEA&icon_color=00BFFF">
 </p>
+
+---
+
+## 💡 Quick Info
+
+```yaml
+apiVersion: developer/v1
+kind: Profile
+metadata:
+  name: varun-hotani
+  namespace: backend-engineers
+spec:
+  contact:
+    email: varunhotani@icloud.com
+    twitter: "@devbyvarun"
+  currentlyLearning:
+    - "React Native"
+    - "CI/CD"
+    - "Kubernetes"
+    - "Cloud Infrastructure"
+  status:
+    phase: "Learning"
+    message: "Code is like humor. When you have to explain it, it's bad."
+```
