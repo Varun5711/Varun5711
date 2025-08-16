@@ -13,20 +13,20 @@
 
 ---
 
-- 🔧 I’m currently working on **DevOps pipelines & microservice architecture**
-- 🧠 I’m diving deeper into **React Native**, **CI/CD**, **Kubernetes**, and **Cloud Infrastructure**
-- 📬 How to reach me: **varunhotani@icloud.com**
-- ⚡ Fun fact: *"Code is like humor. When you have to explain it, it’s bad."*
+-  I’m currently working on **DevOps pipelines & microservice architecture**
+-  I’m diving deeper into **React Native**, **CI/CD**, **Kubernetes**, and **Cloud Infrastructure**
+-  How to reach me: **varunhotani@icloud.com**
+-  Fun fact: *"Code is like humor. When you have to explain it, it’s bad."*
 
 ---
 
-## 🧠 Activity
+##  Activity
 
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/728892652438814740?theme=dracula&bg=1e1e2e&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...)
 
 ---
 
-## 🤝 Connect with me
+##  Connect with me
 
 <p align="left">
   <a href="https://twitter.com/devbyvarun" target="blank">
@@ -48,16 +48,16 @@
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
-### 🧩 Backend & APIs
+###  Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### ☁ DevOps & Cloud
+###  DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -69,7 +69,7 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🧠 Languages & Tools
+###  Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -77,21 +77,22 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F8981D?style=for-the-badge&logo=java&logoColor=white)
 
-### 🛠 Frontend & Mobile
+###  Frontend & Mobile
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🧰 Tools
+###  Tools
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varun5711&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=00FFFF&text_color=EAEAEA&icon_color=00BFFF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun5711&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&title_color=00FFFF&text_color=EAEAEA&icon_color=00BFFF">
 </p>
+
