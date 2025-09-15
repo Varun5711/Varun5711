@@ -2,7 +2,7 @@
   <a href="https://zarif.pro/?ref=ghrdme" target="_blank">
     <img src="https://github.com/zarifpour/assets/blob/main/gifs/imposter.gif?raw=true" alt="imposter" width="75"/>
   </a>
-  <img src="https://imgur.com/C7PX4kM.gif" width="30" height="30" alt="wave hand"/> Hi, I'm <b>Shubham Yadav</b>!
+  <img src="https://imgur.com/C7PX4kM.gif" width="30" height="30" alt="wave hand"/> Hi, I'm <b>Varun</b>!
 </h1>
 
 <div align="center">
@@ -73,5 +73,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varun5711&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=00FFFF&text_color=EAEAEA&icon_color=00BFFF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun5711&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&title_color=00FFFF&text_color=EAEAEA&icon_color=00BFFF">
 </p>
+
 
 
