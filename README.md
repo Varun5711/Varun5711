@@ -1,22 +1,26 @@
-<h1 align="center">🚀 Hi, I'm Varun</h1>
-<h3 align="center">Backend & DevOps Engineer | Exploring React Native | Building reliable systems across Web, Mobile & Cloud</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varun5711&label=Profile%20views&color=0e75b6&style=flat" alt="varun5711" />
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/devbyvarun" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-%40devbyvarun-1DA1F2?style=for-the-badge&logo=twitter" />
+<h1 align="center">
+  <a href="https://zarif.pro/?ref=ghrdme" target="_blank">
+    <img src="https://github.com/zarifpour/assets/blob/main/gifs/imposter.gif?raw=true" alt="imposter" width="75"/>
   </a>
-</p>
+  <img src="https://imgur.com/C7PX4kM.gif" width="30" height="30" alt="wave hand"/> Hi, I'm <b>Shubham Yadav</b>!
+</h1>
+
+<div align="center">
+  <strong>Backend Developer · DevOps Engineer</strong>
+  <br/>
+  <a href="varunhotani@gmail.com">
+    <img src="https://img.shields.io/badge/-Contact-556DB3?style=flat-square&logo=gmail&logoColor=EA4335"/>
+  </a>
+  <a href="https://varunnn.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/-varunnn.tech-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
 -  I’m currently working on **DevOps pipelines & microservice architecture**
 -  I’m diving deeper into **React Native**, **CI/CD**, **Kubernetes**, and **Cloud Infrastructure**
 -  How to reach me: **varunhotani@icloud.com**
--  Fun fact: *"Code is like humor. When you have to explain it, it’s bad."*
 
 ---
 
@@ -47,47 +51,21 @@
 </p>
 
 ---
+# 🛠 Tech Stack
 
-##  Tech Stack
+| **Backend** | **Databases** | **DevOps & Tools** |
+|-------------|---------------|--------------------|
+| ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791) | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) |
+| ![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=go&logoColor=00ADD8) | ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=47A248) | ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) |
+| ![Fiber](https://img.shields.io/badge/-Fiber-05122A?style=flat&logo=go&logoColor=00ADD8) | ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis) | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions&logoColor=2088FF) |
+| ![Chi](https://img.shields.io/badge/-Chi-05122A?style=flat&logo=go&logoColor=00ADD8) | ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=003B57) | ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws) |
+| ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) | ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4DB33D) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=326CE5) |
+| ![Viper](https://img.shields.io/badge/-Viper-05122A?style=flat&logo=go&logoColor=00ADD8) | ![NeonDB](https://img.shields.io/badge/-NeonDB-05122A?style=flat&logo=neondatabase&logoColor=00E699) | ![ArgoCD](https://img.shields.io/badge/-ArgoCD-05122A?style=flat&logo=argo&logoColor=F26822) |
+| ![gRPC (Go)](https://img.shields.io/badge/-gRPC--Go-05122A?style=flat&logo=go&logoColor=00ADD8) | ![Upstash](https://img.shields.io/badge/-Upstash-05122A?style=flat&logo=upstash&logoColor=00E9A3) | ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC) |
+|  |  | ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains) |
+|  |  | ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus&logoColor=E6522C) |
+|  |  | ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins&logoColor=D24939) |
 
-###  Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-###  DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=orange)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-###  Languages & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F8981D?style=for-the-badge&logo=java&logoColor=white)
-
-###  Frontend & Mobile
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-###  Tools
-![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
 
 ##  GitHub Stats
 
@@ -95,4 +73,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varun5711&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=00FFFF&text_color=EAEAEA&icon_color=00BFFF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun5711&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&title_color=00FFFF&text_color=EAEAEA&icon_color=00BFFF">
 </p>
+
 
