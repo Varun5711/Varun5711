@@ -1,77 +1,172 @@
 <h1 align="center">
-  <a href="https://zarif.pro/?ref=ghrdme" target="_blank">
-    <img src="https://github.com/zarifpour/assets/blob/main/gifs/imposter.gif?raw=true" alt="imposter" width="75"/>
-  </a>
-  <img src="https://imgur.com/C7PX4kM.gif" width="30" height="30" alt="wave hand"/> Hi, I'm <b>Varun</b>!
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Varun+Hotani+%F0%9F%91%8B;Backend+Engineer+%7C+DevOps+Specialist;Building+Scalable+Systems" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <strong>Backend Developer · DevOps Engineer</strong>
-  <br/>
-  <a href="varunhotani@gmail.com">
-    <img src="https://img.shields.io/badge/-Contact-556DB3?style=flat-square&logo=gmail&logoColor=EA4335"/>
+<p align="center">
+  <a href="https://varunnn.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://varunnn.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/-varunnn.tech-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <a href="https://linkedin.com/in/varunhotani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
+  <a href="https://twitter.com/devbyvarun" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:varunhotani@icloud.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Varun5711&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
+</p>
 
 ---
 
--  I’m currently working on **DevOps pipelines & microservice architecture**
--  I’m diving deeper into **React Native**, **CI/CD**, **Kubernetes**, and **Cloud Infrastructure**
--  How to reach me: **varunhotani@icloud.com**
+## `$ whoami`
 
----
+```typescript
+const varun = {
+    role: "Backend Developer & DevOps Engineer",
+    location: "India",
+    currentFocus: ["Microservices", "Cloud Infrastructure", "CI/CD Pipelines"],
+    learning: ["React Native", "Kubernetes", "Advanced Cloud Patterns"],
+    askMeAbout: ["Backend Architecture", "DevOps", "System Design", "Go", "Node.js"],
+    funFact: "I debug with strategic console.logs and refuse to apologize for it"
+};
+```
 
-##  Activity
-
-![Discord Presence](https://lanyard-profile-readme.vercel.app/api/728892652438814740?theme=dracula&bg=1e1e2e&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...)
-
----
-
-##  Connect with me
-
+### `$ uptime` — Discord Activity
 <p align="left">
-  <a href="https://twitter.com/devbyvarun" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devbyvarun" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/varunhotani" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun hotani" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/varunhotani" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varunhotani" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/varun_5711" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varun_5711" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/728892652438814740" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
+  <a href="https://discord.com/users/728892652438814740">
+    <img src="https://lanyard-profile-readme.vercel.app/api/728892652438814740?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20shipping%20code..." alt="Discord Presence"/>
   </a>
 </p>
 
 ---
-# 🛠 Tech Stack
 
-| **Backend** | **Databases** | **DevOps & Tools** |
-|-------------|---------------|--------------------|
-| ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791) | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) |
-| ![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=go&logoColor=00ADD8) | ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=47A248) | ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) |
-| ![Fiber](https://img.shields.io/badge/-Fiber-05122A?style=flat&logo=go&logoColor=00ADD8) | ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis) | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions&logoColor=2088FF) |
-| ![Chi](https://img.shields.io/badge/-Chi-05122A?style=flat&logo=go&logoColor=00ADD8) | ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=003B57) | ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws) | ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4DB33D) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=326CE5) | ![NeonDB](https://img.shields.io/badge/-NeonDB-05122A?style=flat&logo=neondatabase&logoColor=00E699) | ![ArgoCD](https://img.shields.io/badge/-ArgoCD-05122A?style=flat&logo=argo&logoColor=F26822) |
-| ![gRPC (Go)](https://img.shields.io/badge/-gRPC--Go-05122A?style=flat&logo=go&logoColor=00ADD8) | ![Upstash](https://img.shields.io/badge/-Upstash-05122A?style=flat&logo=upstash&logoColor=00E9A3) | ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC) |
-|  |  | ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains) |
-|  |  | ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus&logoColor=E6522C) |
-|  |  | ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins&logoColor=D24939) |
+## `$ cat tech_stack.json`
 
+<table>
+<tr>
+<td valign="top" width="33%">
 
-##  GitHub Stats
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varun5711&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=00FFFF&text_color=EAEAEA&icon_color=00BFFF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun5711&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&title_color=00FFFF&text_color=EAEAEA&icon_color=00BFFF">
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs&theme=dark" />
 </p>
 
+**Frameworks**
+```
+├── Gin
+├── Fiber
+├── Chi
+├── NestJS
+└── gRPC
+```
 
+</td>
+<td valign="top" width="33%">
 
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" />
+</p>
 
+**Storage Solutions**
+```
+├── PostgreSQL
+├── MongoDB
+├── Redis
+├── ClickHouse
+├── SQLite
+├── NeonDB
+└── Upstash
+```
+
+</td>
+<td valign="top" width="33%">
+
+### DevOps & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,kafka&theme=dark" />
+</p>
+
+**Infrastructure**
+```
+├── Docker
+├── Kubernetes
+├── AWS
+├── Kafka
+├── ArgoCD
+├── Jenkins
+├── Prometheus
+└── GitHub Actions
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ git log --oneline activity`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varun5711&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varun5711&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Varun5711&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun5711&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook,tex,css,php" />
+</p>
+
+---
+
+## `$ docker ps` — Current Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🔥 What I'm Building**
+- Microservice architectures with event-driven design
+- CI/CD pipelines for seamless deployments
+- Scalable backend systems handling high throughput
+
+</td>
+<td width="50%">
+
+**📚 What I'm Exploring**
+- React Native for cross-platform mobile
+- Advanced Kubernetes orchestration
+- Cloud-native patterns & service meshes
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ curl achievements.api`
+
+<p align="center">
+  <a href="https://www.leetcode.com/varun_5711">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <b>Let's build something amazing together.</b><br/>
+  <sub>Open to collaborations on backend systems, DevOps tooling, and cloud infrastructure projects.</sub>
+</p>
