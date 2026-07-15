@@ -4,7 +4,7 @@ i build backend systems, infra, and distributed products.
 
 i built [CDeX](https://cdex.co.in/) — a complex distributed system for programming contests, code judging, proctoring, realtime leaderboards, and ai-assisted problem authoring.
 
-i’m building [tiny](https://github.com/Varun5711/tiny), a distributed url shortener with analytics, caching, search, and a terminal client.
+i built [tiny](https://github.com/Varun5711/tiny), a distributed url shortener with analytics, caching, search, and a terminal client.
 
 i contributed to [pgrwl](https://github.com/pgrwl/pgrwl), a postgres wal receiver for pitr and disaster recovery workflows.
 
