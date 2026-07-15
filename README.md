@@ -2,7 +2,7 @@ i’m varun, a backend engineer from india.
 
 i build backend systems, infra, and distributed products.
 
-i built [CDeX](https://cdex.co.in/) — a complex distributed system for programming contests, code judging, proctoring, realtime leaderboards, and ai-assisted problem authoring.
+i built [CDeX](https://cdex.co.in/), a complex distributed system for programming contests, code judging, proctoring, realtime leaderboards, and ai-assisted problem authoring.
 
 i built [tiny](https://github.com/Varun5711/tiny), a distributed url shortener with analytics, caching, search, and a terminal client.
 
